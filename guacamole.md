@@ -3,5 +3,6 @@
 #orange
 #lemon
 #coriander
+*pepper
 #avocado
 #method

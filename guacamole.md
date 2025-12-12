@@ -6,4 +6,5 @@
 *coriander
 *pepper
 *avocado
+*apple
 #method
